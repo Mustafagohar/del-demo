@@ -1,2 +1,2 @@
 # del-demo
-just for demo
+just for demo.
